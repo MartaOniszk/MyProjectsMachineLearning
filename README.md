@@ -1,4 +1,4 @@
-#MACHINE LEARNING PROJECTS#
+MACHINE LEARNING PROJECTS
 
 Based on online sources like Udemy, Github, Google Developers, Kaggle.
 
