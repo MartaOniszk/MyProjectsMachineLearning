@@ -1,6 +1,6 @@
-MACHINE LEARNING PROJECTS
+# MACHINE LEARNING PROJECTS #
 
-Based on online sources like Udemy, Github, Google Developers, Kaggle.
+## Based on online sources like Udemy, Github, Google Developers, Kaggle.
 
 
-All projects written via Jupyter Notebook (Python 3)
+###### All projects written via Jupyter Notebook (Python 3)
